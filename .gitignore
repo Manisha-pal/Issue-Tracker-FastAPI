@@ -1,5 +1,5 @@
-echo "__pycache__/" > .gitignore
-echo "*.pyc" >> .gitignore
-echo "*.pyo" >> .gitignore
-echo ".venv/" >> .gitignore
-echo "*.cpython-312.pyc" >> .gitignore
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.cpython-312.pyc
